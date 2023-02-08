@@ -1,6 +1,6 @@
 
 ## Home Page
-<p ><atarget="_blank"><img src="public/images/home page.png" width="900" alt="Laravel Logo"></a></p>
+<p ><atarget="_blank"><img src="public/images/home page.png" width="1000" alt="Laravel Logo"></a></p>
 
 
 
