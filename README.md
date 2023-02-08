@@ -11,7 +11,7 @@
 
 <p ><atarget="_blank"><img src="public/images/produt page.png" width="1000" alt="Laravel Logo"></a></p>
 
-   Product Added to cart :
+        Product Added to cart :
    
 <p ><atarget="_blank"><img src="public/images/product added.png" width="1000" alt="Laravel Logo"></a></p>
 
@@ -26,7 +26,9 @@
 ## Order Page:
 
 <p ><atarget="_blank"><img src="public/images/order page.png" width="1000" alt="Laravel Logo"></a></p>
- Cancel Order
+
+        Cancel Order:
+ 
 <p ><atarget="_blank"><img src="public/images/cancl oerder.png" width="1000" alt="Laravel Logo"></a></p>
 
 ## Admin Dashbord :
