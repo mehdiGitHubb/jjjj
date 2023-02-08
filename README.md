@@ -1,10 +1,8 @@
-<video width="320" height="240" autoplay>
-  <source src="https://github.com/mehdiGitHubb/laravel-ecommerce-project/blob/main/2023-02-08%2014-13-36.mkv" type="video/mkv">
-  <source src="https://github.com/mehdiGitHubb/laravel-ecommerce-project/blob/main/2023-02-08%2014-13-36.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
+
 ## Home Page
 <p ><atarget="_blank"><img src="public/images/home page.png" width="1000" alt="Laravel Logo"></a></p>
+## Authentification
+<p ><atarget="_blank"><img src="[public/images/home page.png](https://github.com/mehdiGitHubb/laravel-ecommerce-project/blob/main/public/images/autentification.png)" width="1000" alt="Laravel Logo"></a></p>
 
 
 
